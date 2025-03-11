@@ -26,3 +26,4 @@
 /Users/s2401556/GameStore/GameStore.Api/obj/Debug/net9.0/GameStore.Api.pdb
 /Users/s2401556/GameStore/GameStore.Api/obj/Debug/net9.0/GameStore.Api.genruntimeconfig.cache
 /Users/s2401556/GameStore/GameStore.Api/obj/Debug/net9.0/ref/GameStore.Api.dll
+/Users/s2401556/GameStore/GameStore.Api/obj/Debug/net9.0/GameStore.Api.sourcelink.json
